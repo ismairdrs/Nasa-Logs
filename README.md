@@ -20,9 +20,13 @@ Aug 04 to Aug 31, ASCII format, 21.8 MB gzip compressed, 167.8 MB: ftp://ita.ee.
 Use Python com PySpark para descobrir as seguintes informações:
 
 Número de hosts únicos.
+
 O total de erros 404.
+
 Os 5 URLs que mais causaram erro 404.
+
 Quantidade de erros 404 por dia.
+
 O total de bytes retornados.
 
 ![](./NasaLogs.PNG)
