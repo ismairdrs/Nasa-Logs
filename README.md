@@ -1,5 +1,5 @@
 # Nasa-Logs
-Repositório de arquivos utilizados no Python Bootcamp da pós graduação
+Repositório de arquivos utilizados no Python Bootcamp
 
 Dados dois conjuntos de dados que possuem todas as requisições HTTP para o servidor da NASA Kennedy Space Center WWW na
 Flórida para um período específico, você fará uma análise de dados a seguir.
